@@ -1,2 +1,2 @@
-# CapstoneProject
-Authorship Arabic texts using Deep Impostors method
+# CapstoneProject : Authorship Arabic texts using Deep Impostors method
+
