@@ -44,4 +44,8 @@ The proposed research framework follows these main stages:
 
 ---
 
-## 📂 Repository Structure
+## 🎥 Project Presentation
+
+Click here to watch the presentation video:
+
+[Project Presentation Video](https://drive.google.com/file/d/14vHg-4ZTEFvuiN2IIjmZzf3JL-OcaadQ/view?usp=sharing)
